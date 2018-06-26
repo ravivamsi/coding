@@ -21,16 +21,6 @@ thislist.append("orange")
 print("Appended an Element")
 print(len(thislist))
 
-# 
-# Tuple
-
-
-
-# Set 
-
-
-
-# Dictionary
 
 
 
