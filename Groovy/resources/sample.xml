@@ -1,0 +1,12 @@
+<persons>
+<person>
+    <firstName>Jane</firstName>
+    <lastName>Smith</lastName>
+    <age>31</age>
+</person>
+<person>
+    <firstName>Vamsi</firstName>
+    <lastName>Ravi</lastName>
+    <age>28</age>
+</person>
+</persons>
