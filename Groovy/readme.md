@@ -31,6 +31,15 @@ Note: If you don't have package managers on your machine, follow the instruction
 $ groovy GettingStarted.groovy
 ```
 
+Make sure you have the permissions to execute the groovy sh scripts
+```terminal
+$ chmod 777 ExecuteCommandLine.sh
+```
+
+```terminal
+$ ./ExecuteCommandLine.sh
+```
+
 ## Scripts
 
 
